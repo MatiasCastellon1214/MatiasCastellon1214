@@ -46,7 +46,7 @@
 - 📊 **Environmental data analytics**
 - 🌐 **Full stack web development**
 - 🤖 **Predictive modelling** **Predictive modelling development**
-- ☁️ **Cloud Computing** **Geo-analysis
+- ☁️ **Cloud Computing**
 - 🗺️ **Geospatial analysis** **Geo-spatial analysis**
 
 ### 📫 Contact:
