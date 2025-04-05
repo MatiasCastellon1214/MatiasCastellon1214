@@ -4,6 +4,7 @@
 - 🎓 Degree in Biological Sciences.
 - 🔬 Doctoral Research Fellow at CONICET, working on water quality analysis with Python and R.
 - 💻 Passionate about backend development with Java and Spring Boot.
+- 👨‍💻 Currently studying to become a University Programming Analyst
 
 ### 🛠️ Skills:
 - **Languages:** ![alt text](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![alt text](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=oracle&logoColor=white), ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![alt text](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white).
