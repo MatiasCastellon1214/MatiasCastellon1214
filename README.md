@@ -1,6 +1,7 @@
 # 👋 Hello! I´m Matías Joel Castellón 👨‍💻
 
 ### 🌱 About me:
+- 💻 Currently working as a Backend Developer at OpenLifter.ai, building cloud-native serverless solutions using Python, MongoDB, and AWS services like Lambda, S3, API Gateway, and SAM.
 - 🎓 Degree in Biological Sciences.
 - 🔬 Doctoral Research Fellow at CONICET, working on water quality analysis with Python and R.
 - 💻 Passionate about backend development with Java and Spring Boot.
